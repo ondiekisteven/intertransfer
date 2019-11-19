@@ -1,0 +1,15 @@
+/* CSS Document */
+
+body {
+  background-color: #330099;
+  font-style: normal;
+
+}
+
+#form1 {
+  /* background-color:#0099CC;
+border:groove; */
+  content: attr(x);
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  margin: 25px;
+}
